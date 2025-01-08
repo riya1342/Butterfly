@@ -1,0 +1,508 @@
+@media only screen and (max-width : 992px) { 
+    .header-container{
+        width: 90%;
+    }
+    nav ul{
+       display: flex;
+    }
+    .banner-container{
+        width: 90%;
+    }
+    .text-banner h1{
+        font-size: 32px;
+    }
+    .text-banner p{
+        font-size: 18px;
+    }
+    .about2-container{
+        width: 90%;
+        
+    }
+    .about2-info p {
+        font-family: "Dosis", sans-serif;
+        font-size: 16px;
+    }
+    .about2-info {
+        width: 90%;
+       
+    }
+    
+    
+    .icon i{
+        font-size: 10px;
+    }
+    .text{
+        margin-bottom: -40px;
+    }
+    .about2-iconbox .text p{
+        font-size: 15px;
+         line-height: 20px;
+    } 
+    .about2-iconbox h4 {
+       
+        font-size: 18px;
+    }
+    .achieve-container {
+        width: 90%;
+    }
+    .clients-container {
+        width: 90%;
+        
+    }
+    .service-container{
+        width: 90%;
+    }
+    .service-container h3 {
+        font-size: 28px;
+    }
+    .service-container p {
+        font-size: 16px;
+        padding-bottom: 5px;
+    }
+    .service-box {
+        grid-template-columns: 1fr 1fr;
+    }
+    .portfolio-container{
+        width: 90%;
+    }
+    .portfolio-container h2 {
+        font-size: 28px;
+    }
+    .portfolio-container p {
+        font-size: 16px;
+    }
+    .slider-container {
+        width: 90%;
+    }
+    .team-container{
+        width: 90%;
+    }
+    .team-header h2 {
+        font-size: 28px;
+    }
+    .team-header p {
+        font-size: 16px;
+    }
+    .team-box{
+        flex-wrap: nowrap;
+    }
+    .gallery-container{
+        width: 90%;
+    }
+    .gallery-header h2 {
+        font-size: 28px;
+    }
+    .gallery-header p {
+        font-size: 16px;
+    }
+    .con-container{
+        width: 90%;
+    }
+    .con-header h2 {
+        font-size: 28px;
+    }
+    .con-header p {
+        font-size: 16px;
+    }
+   .map iframe{
+        width: 90%;
+       margin-left: 45px;
+    } 
+    .con-row .contact{
+        width: 90%;
+    }
+    .con-row {
+        flex-wrap: nowrap;
+    }
+    .form-row {
+        padding-left: 29px;
+    }
+    
+    .form-sec .name {
+        width: 44%;
+    }
+    .form-sec .email {
+        width: 44%;
+    }
+    .subject input {
+        width: 86%;
+    }
+    .message{
+        width: 90%;
+    }
+    .message textarea {
+        width: 90% !important;
+    }
+    .footer-container{
+        width: 90%;
+    }
+    .row2 a i{
+     font-size: 16px;
+    }
+
+ }
+
+ @media only screen and (max-width: 768px) { 
+    .header-container{
+        width: 90%;
+    }
+    nav ul{
+       display: flex;
+    }
+    .banner-container{
+        width: 90%;
+    }
+    .text-banner h1{
+        font-size: 32px;
+    }
+    .text-banner p{
+        font-size: 18px;
+    }
+    .about2-container{
+        width: 90%;
+        
+    }
+    .about2-info p {
+        font-family: "Dosis", sans-serif;
+        font-size: 16px;
+    }
+    .about2-info {
+        width: 90%;
+       
+    }
+    
+    
+    .icon i{
+        font-size: 10px;
+    }
+    .text{
+        margin-bottom: -40px;
+    }
+    .about2-iconbox .text p{
+        font-size: 15px;
+         line-height: 20px;
+    } 
+    .about2-iconbox h4 {
+       
+        font-size: 18px;
+    }
+    .achieve-container {
+        width: 90%;
+    }
+    .clients-container {
+        width: 90%;
+        
+    }
+    .service-container{
+        width: 90%;
+    }
+    .service-container h3 {
+        font-size: 28px;
+    }
+    .service-container p {
+        font-size: 16px;
+        padding-bottom: 5px;
+    }
+    .service-box {
+        grid-template-columns: 1fr 1fr;
+    }
+    .portfolio-container{
+        width: 90%;
+    }
+    .portfolio-container h2 {
+        font-size: 28px;
+    }
+    .portfolio-container p {
+        font-size: 16px;
+    }
+    .slider-container {
+        width: 90%;
+    }
+    .team-container{
+        width: 90%;
+    }
+    .team-header h2 {
+        font-size: 28px;
+    }
+    .team-header p {
+        font-size: 16px;
+    }
+    .team-box{
+        flex-wrap: nowrap;
+    }
+    .gallery-container{
+        width: 90%;
+    }
+    .gallery-header h2 {
+        font-size: 28px;
+    }
+    .gallery-header p {
+        font-size: 16px;
+    }
+    .con-container{
+        width: 90%;
+    }
+    .con-header h2 {
+        font-size: 28px;
+    }
+    .con-header p {
+        font-size: 16px;
+    }
+   .map iframe{
+        width: 90%;
+       margin-left: 45px;
+    } 
+    .con-row .contact{
+        width: 90%;
+    }
+    .con-row {
+        flex-wrap: nowrap;
+    }
+    .form-row {
+        padding-left: 29px;
+    }
+    
+    .form-sec .name {
+        width: 44%;
+    }
+    .form-sec .email {
+        width: 44%;
+    }
+    .subject input {
+        width: 86%;
+    }
+    .message{
+        width: 90%;
+    }
+    .message textarea {
+        width: 90% !important;
+    }
+    .footer-container{
+        width: 90%;
+    }
+    .row2 a i{
+     font-size: 16px;
+    }
+
+ }
+ 
+ @media only screen and  (max-width: 576px) { 
+    .header-container{
+        width: 90%;
+    }
+    nav {
+       display: none;
+    }
+    .banner-container{
+        width: 90%;
+    }
+    .banner-container{
+        grid-template-columns: 1fr;
+    }
+    .text-banner{
+        order: 2;
+    }
+    .text-banner a button{
+       margin-left: 36%;
+    }
+    .text-banner h1{
+        font-size: 20px;
+        line-height: 25px;
+    }
+    .text-banner p{
+        font-size: 15px;
+    }
+    .about2-container{
+        width: 90%;
+        grid-template-columns: 1fr;
+    }
+    .about2-info p {
+        font-family: "Dosis", sans-serif;
+        font-size: 15px;
+    }
+    .about2-info h2 {
+        font-size: 20px;
+    }
+    .about2-info {
+        width: 90%;
+    }
+    .about2-info{
+        order: 2;
+    }
+    
+    .icon i{
+        font-size: 10px;
+    }
+    .text{
+        margin-bottom: -40px;
+    }
+    .about2-iconbox .text p{
+        font-size: 15px;
+         line-height: 20px;
+    } 
+    .about2-iconbox h4 {
+       
+        font-size: 18px;
+    }
+    .achieve-container {
+        width: 90%;
+    }
+    .achieve-container h3 {
+        font-size: 25px;
+    }
+    .achieve-container p {
+        font-size: 14px;
+    }
+    .clients-container {
+        width: 90%;
+        
+    }
+    .flex-row {
+        width: 50%;
+    }
+    .service-container{
+        width: 90%;
+    }
+    .service-container h3 {
+        font-size: 20px;
+    }
+    .service-container p {
+        font-size: 13px;
+        padding-bottom: 5px;
+    }
+    .service-box {
+        grid-template-columns: 1fr;
+    }
+    .portfolio-container{
+        width: 90%;
+    }
+    .portfolio-container h2 {
+        font-size: 20px;
+    }
+    .portfolio-container p {
+        font-size: 13px;
+    }
+    .pot-img{
+        grid-template-columns: 1fr ;
+    }
+    .slider-container {
+        width: 90%;
+    }
+    .team-container{
+        width: 90%;
+    }
+    .team-header h2 {
+        font-size: 20px;
+    }
+    .team-header p {
+        font-size: 13px;
+    }
+    .team-box{
+       flex-direction: column;
+      
+    }
+    .box{
+       width: 100%;
+       padding-left: 10px;
+    }
+    .gallery-container{
+        width: 90%;
+    }
+    .gallery-header h2 {
+        font-size: 20px;
+    }
+    .gallery-header p {
+        font-size: 13px;
+    }
+    .gallery-row {
+        grid-template-columns: 1fr;
+    }
+    .con-container{
+        width: 90%;
+    }
+    .con-header h2 {
+        font-size: 28px;
+    }
+    .con-header p {
+        font-size: 16px;
+    }
+    /* .contact{
+        flex-direction: column;
+    } */
+     .info i{
+        font-size: 15px;
+        width: 34px;
+        height: 32px;
+     }
+     .info h4 {
+        font-size: 18px;
+     }
+     .info p {
+        font-size: 12px;
+     }
+     .info .email h4 {
+        font-size: 18px;
+     }
+     .info .email p{
+        font-size: 12px;
+     }
+   .map iframe{
+        width: 90%;
+       margin-left: 45px;
+    } 
+    .con-row .contact{
+        width: 90%;
+    }
+    .con-row {
+        flex-wrap: nowrap;
+    }
+    .form-row {
+        padding-left: 29px;
+    }
+    
+    .form-sec .name {
+        width: 44%;
+    }
+    .form-sec .email {
+        width: 44%;
+    }
+    .subject input {
+        width: 86%;
+    }
+    .message{
+        width: 90%;
+    }
+    .message textarea {
+        width: 90% !important;
+    }
+    .jon p{
+        font-size: 13px;
+    }
+    .row-center form {
+        padding: 0;
+    }
+    .row-center form input[type=email] {
+        width: 92px;
+    }
+    .row-center form {
+        padding: 0;
+        width: 130%;
+        margin-left: -27px;
+    }
+    .footer-container{
+        width: 90%;
+    }
+    .row2 a i{
+     font-size: 16px;
+    }
+    .footer-container .foot-row {
+      grid-template-columns: 1fr 1fr;
+    }
+    .credit {
+        display: none;
+    }
+    .butterfly {
+        font-size: 10px;
+        padding-left: 163px;
+    }
+}

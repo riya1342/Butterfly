@@ -476,7 +476,7 @@
         width: 92%;
     }
     .message{
-        width: 80%;
+        width: 78%;
     }
     .message textarea {
         width: 90% !important;
@@ -499,7 +499,8 @@
         width: 90%;
     }
     .row2 a i{
-     font-size: 10px;
+     font-size: 8px;
+     padding: 5px;
     }
     .footer-container .foot-row {
       grid-template-columns: 1fr 1fr;

@@ -447,7 +447,7 @@
         font-size: 12px;
      }
    .map iframe{
-        width: 90%;
+        width: 80%;
        margin-left: 45px;
     } 
     .con-row .contact{
@@ -459,18 +459,24 @@
     .form-row {
         padding-left: 29px;
     }
-    
+    form {
+        font-size: 5px !important;
+    }
     .form-sec .name {
-        width: 44%;
+        width: 35%;
+        margin-right: 12px;
     }
     .form-sec .email {
-        width: 44%;
+        width: 35%;
+    }
+    .subject{
+        width: 80%;
     }
     .subject input {
-        width: 86%;
+        width: 92%;
     }
     .message{
-        width: 90%;
+        width: 80%;
     }
     .message textarea {
         width: 90% !important;
@@ -493,7 +499,7 @@
         width: 90%;
     }
     .row2 a i{
-     font-size: 16px;
+     font-size: 10px;
     }
     .footer-container .foot-row {
       grid-template-columns: 1fr 1fr;
